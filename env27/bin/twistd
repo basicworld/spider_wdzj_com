@@ -1,0 +1,4 @@
+#!/root/jiunuo/wangdaizhijia2/env27/bin/python
+# EASY-INSTALL-SCRIPT: 'Twisted==15.5.0','twistd'
+__requires__ = 'Twisted==15.5.0'
+__import__('pkg_resources').run_script('Twisted==15.5.0', 'twistd')
